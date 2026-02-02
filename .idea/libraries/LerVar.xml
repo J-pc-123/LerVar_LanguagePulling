@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LerVar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../LerVar_TEST/LerVar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
