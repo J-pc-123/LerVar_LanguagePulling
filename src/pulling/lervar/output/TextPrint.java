@@ -17,7 +17,7 @@ import com.lervar.main.Type;
 
 public interface TextPrint extends OptionPrintLanguages {
     @Override
-    default String[] optionPrintLanguages(Type t){
-        return new String[]{""};
+    default String[][] optionPrintLanguages(Type t){
+        return new String[][]{{}};
     }
 }
